@@ -1,0 +1,7 @@
+17:39:46.230 [main] INFO  resources.Base - switched to location window
+17:39:48.783 [main] INFO  resources.Base - assert passed
+17:39:48.783 [main] INFO  resources.Base - location selected
+17:39:48.783 [main] INFO  resources.Base - testcase 8 passed
+17:39:52.722 [main] INFO  resources.Base - Home page started
+17:39:56.731 [main] INFO  resources.Base - test case 9 started
+17:40:04.899 [main] INFO  resources.Base - testcase 9 passed
